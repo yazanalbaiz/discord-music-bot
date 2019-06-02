@@ -1,2 +1,5 @@
 #The local environment File
 .env
+
+#Node Modules
+node_modules
